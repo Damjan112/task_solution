@@ -1,0 +1,11 @@
+.status-cell.bg-success {
+    background-color: green;
+    color: white;
+
+}
+
+.status-cell.bg-danger {
+    background-color: red;
+    color: white;
+
+}

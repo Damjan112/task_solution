@@ -1,0 +1,36 @@
+/* Home.css */
+
+.home-container {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .home-content {
+    text-align: center;
+    padding: 20px;
+    min-height: 80vh;
+  }
+  
+  .home-title {
+    font-size: 2.5rem;
+    color: #ffffff;
+    margin-bottom: 20px;
+  }
+  
+  .home-description {
+    font-size: 1.2rem;
+    color: #ffffff;
+  }
+  .home-container {
+    background-image: url('image.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
